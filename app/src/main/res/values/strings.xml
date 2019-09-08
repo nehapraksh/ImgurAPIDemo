@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImgurDemo</string>
+    <string name="switch_text_even">Show even count images</string>
+    <string name="switch_text_all">Show all images</string>
+    <string name="items">items</string>
+    <string name="image_details">Image Details</string>
+    <string name="network_issue">ERROR! Please check your internet connection.</string>
+</resources>
