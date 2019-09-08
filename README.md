@@ -2,7 +2,7 @@
 It is an native Android App that searches for the top images of the week from the Imgur gallery and display it in a list. It is developed in Java. This app retrieves data from a Imgur API using Retrofit2,and it uses Retrofit2 Gson converter for deserializing the JSON response.
 
 # Instructions to run the app
-Step 1: Download the zip file or Clone with HTTPS in the Android studio
+Step 1: Download the zip file from the "Clone or Download" button or Clone with HTTPS in the Android studio
 
 Step 2: Extract the zip folder
 
