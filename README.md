@@ -20,13 +20,13 @@ Step 5: Run the project by cliking on the RUN button in the Android Studio
 
 3. Displays the Images in the Grid view with the following details:
 
-  a) image
+      a) image
   
-  b) title
+      b) title
   
-  c) date of post in local time (DD/MM/YYYY h:mm a)
+      c) date of post in local time (DD/MM/YYYY h:mm a)
   
-  d) number of additional images in post (if there are multiple)
+      d) number of additional images in post (if there are multiple)
   
 4. Displays the first image from the list, if a search result contains multiple images.
 
@@ -34,10 +34,10 @@ Step 5: Run the project by cliking on the RUN button in the Android Studio
 
 6. Toggle buttons includes below features:
 
-   a) If toggle is enabled, the app should only display results where the sum of “points”,
-      “score” and “topic_id” adds up to an even number
+      a) If toggle is enabled, the app should only display results where the sum of “points”,
+          “score” and “topic_id” adds up to an even number
       
-  b) If the toggle is disabled, the app should display all results
+      b) If the toggle is disabled, the app should display all results
 
   
  
