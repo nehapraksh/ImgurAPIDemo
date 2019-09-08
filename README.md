@@ -30,7 +30,7 @@ Step 5: Run the project by cliking on the RUN button in the Android Studio
   
 4. Displays the first image from the list, if a search result contains multiple images.
 
-5.Display images sorted in reverse chronological order.
+5. Display images sorted in reverse chronological order.
 
 6. Toggle buttons includes below features:
 
