@@ -38,6 +38,8 @@ Step 5: Run the project by cliking on the RUN button in the Android Studio
           “score” and “topic_id” adds up to an even number
       
       b) If the toggle is disabled, the app should display all results
+      
+7. Display the details of the image when clicked on it.      
 
   
  
